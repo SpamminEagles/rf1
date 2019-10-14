@@ -6,7 +6,7 @@
  * @since 0.1
  */
 export interface Discount{
-    /** The name of the dist - that is discounted */
+    /** The name of the dish - that is discounted */
     Name: string;
 
     /** The description of the discounted dish */

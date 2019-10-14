@@ -8,6 +8,7 @@
 export interface UserData{
     Username: string;
     Email: string;
+    Phone: number;
     Addr: Address;
 }
 
